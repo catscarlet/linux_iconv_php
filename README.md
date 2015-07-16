@@ -1,0 +1,2 @@
+# linux_iconv_php
+自己写的一个shell下使用iconv把php文件从gb2312批量转换成utf8的脚本，由php和shell组成
